@@ -2,8 +2,9 @@ site_name: My Docs
 nav:
   - Home: index.md
   - About: about.md
+  - Add: add.md
 theme: readthedocs
-#teste 1.0
+#teste 2.0
 plugins:
   - mike:
       # These fields are all optional; the defaults are as below...
