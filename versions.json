@@ -1,5 +1,12 @@
 [
   {
+    "version": "4.0",
+    "title": "4.0",
+    "aliases": [
+      "latest"
+    ]
+  },
+  {
     "version": "3.0",
     "title": "3.0",
     "aliases": []
@@ -7,9 +14,7 @@
   {
     "version": "2.0",
     "title": "2.0",
-    "aliases": [
-      "latest"
-    ]
+    "aliases": []
   },
   {
     "version": "1.0",
